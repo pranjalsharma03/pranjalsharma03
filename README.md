@@ -16,8 +16,8 @@
 ## Places to check me out!
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/twitter.svg" alt="Twitter" />][twitter] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/instagram.svg" alt="Instagram" />][instagram] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/tryhackme.svg" alt="TryHackMe" />][tryhackme] &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/main/icons/instagram.svg" alt="Instagram" />][instagram] &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/main/icons/tryhackme.svg" alt="TryHackMe" />][tryhackme] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/protonmail.svg" alt="Protonmail" />][protonmail] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/hackerrank.svg" alt="HackerRank" />][hackerrank] &nbsp;
