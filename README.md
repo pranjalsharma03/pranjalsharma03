@@ -18,6 +18,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/twitter.svg" alt="Twitter" />][twitter] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/main/icons/instagram.svg" alt="Instagram" />][instagram] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/main/icons/tryhackme.svg" alt="TryHackMe" />][tryhackme] &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/main/icons/hackthebox.svg" alt="HackTheBox" />][hackthebox] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/protonmail.svg" alt="Protonmail" />][protonmail] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/hackerrank.svg" alt="HackerRank" />][hackerrank] &nbsp;
@@ -57,4 +58,4 @@
 [spotify]: https://open.spotify.com/user/31plhhhdxai5fn2vxuv3pi55uqr4
 [instagram]: https://www.instagram.com/pranjal_y2j_/
 [tryhackme]: https://tryhackme.com/p/pranjal
-[hachthebox]: https://www.hackthebox.eu/home/users/profile/323576
+[hackthebox]: https://www.hackthebox.eu/home/users/profile/323576
