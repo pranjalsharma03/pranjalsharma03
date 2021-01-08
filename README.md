@@ -6,9 +6,9 @@
 
 <h2 align="center"> I'm an Ethical Hacker, CTF Player. </h2>
 
-- 🌱 I’m currently learning advanced PT.
+- 🌱 I’m currently learning advanced Penitration Testing.
 - ⛳ I play CTF in my free time.
-- 🎈 I’m looking to develop more games.
+- 🎈 I’m willing to develop Hacking Tools.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
