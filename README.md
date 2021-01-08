@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center"> I'm a Ethical Hacker, CTF Player. </h2>
+<h2 align="center"> I'm an Ethical Hacker, CTF Player. </h2>
 
 - 🌱 I’m currently learning advanced PT.
 - ⛳ I play CTF in my free time.
