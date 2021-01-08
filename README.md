@@ -29,7 +29,6 @@
 
 
 [<img height="35" width="32" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/androidstudio.svg" alt="Android Studio" />](# "Android Studio") &nbsp;
-
 [<img height="35" width="32" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/android.svg" alt="Android" />](# "Android OS") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
