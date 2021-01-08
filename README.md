@@ -6,12 +6,12 @@
 
 <h2 align="center"> I'm a Ethical Hacker, CTF Player. </h2>
 
-- 🌱 I’m currently learning advanced C# and ML.
+- 🌱 I’m currently learning advanced PT.
 - ⛳ I play CTF in my free time.
 - 🎈 I’m looking to develop more games.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Places to check me out!
 
@@ -41,7 +41,7 @@
 
 <br />
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <br />
 
