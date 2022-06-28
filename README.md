@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning advanced Penitration Testing.
 - ⛳ I play CTF in my free time.
 - 🎈 I’m willing to develop Hacking Tools.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
