@@ -6,10 +6,10 @@
 
 <h2 align="center"> I'm an Ethical Hacker, CTF Player. </h2>
 
-- 🌱 I’m currently learning advanced Penitration Testing.
+- 🌱 I’m currently learning advanced Penetration Testing.
 - ⛳ I play CTF in my free time.
 - 🎈 I’m willing to develop Hacking Tools.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+  
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -23,7 +23,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/protonmail.svg" alt="Protonmail" />][protonmail] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/hackerrank.svg" alt="HackerRank" />][hackerrank] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/pranjalsharma03/pranjalsharma03/master/icons/spotify.svg" alt="Spotify" />][spotify] &nbsp;
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=62471" style='border:none;'></iframe> &nbsp;
 
 ### Tools and Languages :
 
