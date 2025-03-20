@@ -45,7 +45,7 @@
 
 <br />
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=62471" style='border:none;'></iframe>
+
 
 
 [twitter]: https://twitter.com/pranjal_y2j
