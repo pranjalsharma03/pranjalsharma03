@@ -45,7 +45,7 @@
 
 <br />
 
-[<img align="" alt="Pranjal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pranjalsharma03&show_icons=true&hide_border=false&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=62471" style='border:none;'></iframe>
 
 
 [twitter]: https://twitter.com/pranjal_y2j
